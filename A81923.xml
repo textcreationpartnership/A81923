@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memoriall concerning peace ecclesiasticall amongst Protestants. By John Dury.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81923</idno>
+            <idno type="STC">Wing D2872</idno>
+            <idno type="STC">Thomason E156_11</idno>
+            <idno type="STC">ESTC R377</idno>
+            <idno type="EEBO-CITATION">99872488</idno>
+            <idno type="PROQUEST">99872488</idno>
+            <idno type="VID">156873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81923)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156873)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E156[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memoriall concerning peace ecclesiasticall amongst Protestants. By John Dury.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Hope at the signe of the Unicorne in Cornehill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  History --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156873:1" rendition="simple:additions"/>
+            <p>A MEMORIALL CONCERNING PEACE ECCLESI<g ref="char:EOLhyphen"/>ASTICALL AMONGST PROTESTANTS.</p>
+            <p>By <hi>JOHN DURY.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>W. Hope</hi> at the ſigne of the <hi>Unicorne</hi> in Cornehill, <hi>Anno</hi> 1641.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:156873:2"/>
+            <pb facs="tcp:156873:2"/>
+            <head>TO THE KINGS MOST EX<g ref="char:EOLhyphen"/>CELLENT MAJESTY: OR TO His <hi>Majeſties</hi> COMMISSIONER. And To His Reverend and loving Brethren in Chriſt, the PASTORS and ELDERS of the Kirk of Scotland, met together at their gene<g ref="char:EOLhyphen"/>rall Aſſembly appointed to be held at Saint <hi>Andrewes</hi> in July, <hi>Anno</hi> 1641. The humble and earneſt ſuit of JOHN DURY Miniſter of the Goſpel of God,</head>
+            <opener>Reverently and humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat ſeeing for the ſpace of theſe ten yeers by<g ref="char:EOLhyphen"/>paſt, your Petitioner, as without all pre<g ref="char:EOLhyphen"/>judice and partialitie againſt any Prote<g ref="char:EOLhyphen"/>ſtant Church or perſon; ſo with all favou<g ref="char:EOLhyphen"/>rable permiſsion, good liking, approbation, and encou<g ref="char:EOLhyphen"/>ragements from chief men of all ſides, whom in a Civill or Eccleſiaſticall way it doth concerne, hath ſolicited the work of reconcilement amongſt Proteſtants: where<g ref="char:EOLhyphen"/>in he is gone ſo farre, as in a private Theologicall way
+<pb facs="tcp:156873:3"/>
+of Treaty may bee proceeded with forraign Churches, to prepare their mindes unto further reſolutions in due time. And now finding, by Gods good Providence, an opportunity of publick meetings, both here in England, where his ſolicitation is laid to heart; and alſo in his native Countrey and Church, where hopefully his purpoſe may be in like manner promoted by publick ap<g ref="char:EOLhyphen"/>probation and counſell of the godly, wiſe, and learned Miniſtery:</p>
+            <p>Therefore he thinketh it a part of his duty to deferre his humble reſpect unto your Reverend Aſſembly, in<g ref="char:EOLhyphen"/>treating for the love of the Spirit, and by the Communi<g ref="char:EOLhyphen"/>on of Saints, that in the feare of God, ſo good an endea<g ref="char:EOLhyphen"/>vour, though meanly hitherto countenanced, may not bee ſlighted; but that the ſcope and proſecution thereof may be taken up without prejudice, according to the true mea<g ref="char:EOLhyphen"/>ning thereof, which is laid open in the printed Engliſh Relation, and Latine Information herewith offered unto you: And that the writ given to M. <hi>Alex. Henderſon,</hi> containing a draught of the particular means and man<g ref="char:EOLhyphen"/>ner of proceeding, wherein the way of your ſued for con<g ref="char:EOLhyphen"/>currence is ſpecified, may be taken ſeriouſly to heart, and ſome Declaration of Chriſtian advice, and anſwer there<g ref="char:EOLhyphen"/>upon returned, which may conduce, and help to advance the glory of God through the unblameable and peaceable profeſsion of the Goſpel of <hi>Jeſus Chriſt</hi> amongſt Pro<g ref="char:EOLhyphen"/>teſtants: And I your Petitioner, as in duty bound, ſhall pray daily for your eternall and temporall felicity, and his Majeſties long life, in a peaceable and proſperous Go<g ref="char:EOLhyphen"/>vernment over you, and all his Kingdomes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:156873:3"/>
+            <head>A MEMORIALL Concerning PEACE ECCLESIASTICALL amongſt Proteſtants: Which JOHN DURY offereth to Maſter ALEXANDER HENDERSON, to bee ſent or preſented unto the Generall Aſſembly of the Church of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sir, and loving Brother in Jeſus Chriſt,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y earneſt deſire is, that this well meant, and (as I conceive) very warrantable Negotiation of mine, may not bee miſtaken by any, and chiefely by you in Scotland, to whom I owe reve<g ref="char:EOLhyphen"/>rence in the Church of God.</p>
+            <p>For, As I was not drawne to this worke by any
+<pb n="2" facs="tcp:156873:4"/>
+man upon any private conſiderations; ſo I have never ſerved any mans end, nor ſought my ſelfe in it, but onely God, and the manifeſtation of his Truth. This he that ſearcheth the hearts of all men knoweth to have beene, and ſtill to bee mine onely true and conſtant aime. Nor doe I preſume to interpoſe, and caſt my ſelfe up as a Judge, and Arbitrator of the differences between Churches; but being earneſtly in love with truth and peace, and having been ſtirred up by men that ſeek the truth in holineſſe and peaceable affections, to en<g ref="char:EOLhyphen"/>deavour the advancement of the one and the o<g ref="char:EOLhyphen"/>ther, I have preſented hitherto my ſelfe unto God, and to all his ſervants without partiality, as an humble ſolicitor of the counſels of Peace, for the publick good of Proteſtant Churches, that there<g ref="char:EOLhyphen"/>in the truth of his Goſpel may bee conferred and made knowne unto the world. And this I finde I am warranted to doe, not onely by the neceſſity of the times, and the dangers whereunto the Pro<g ref="char:EOLhyphen"/>feſſors of the Goſpel are brought, through the prevarication, and implacable animoſity of ſome of their Leaders and controverſall Writers; but alſo by the expreſſe Commandements of God; which preſſe mee, firſt, to <hi>ſeeke peace with all men,</hi> 
+               <note place="margin">
+                  <hi>Rom.</hi> 12. 18. <hi>Heb.</hi> 12. 14. <hi>Heb.</hi> 10. 24.</note> ſo farre as in mee lyeth, if poſſibly it may bee had: And ſecondly, to provoke others, whom this du<g ref="char:EOLhyphen"/>tie in like manner doth concerne, unto the ſame affection of love, and of good workes. Let mee then bee looked upon as a publicke ſolicitor of peaceable counſels and thoughts, and as a pro<g ref="char:EOLhyphen"/>voker
+<pb n="3" facs="tcp:156873:4"/>
+of godly men unto the affections of charita<g ref="char:EOLhyphen"/>ble duties; for this is the ſumme of that which I intend.</p>
+            <p>Therefore, To performe this task more effectu<g ref="char:EOLhyphen"/>ally towards every one, I have taken notice of that part of the duty wherein wee are diſtinctly com<g ref="char:EOLhyphen"/>manded to contemplate, and attentively to conſi<g ref="char:EOLhyphen"/>der one another, (for this is the force of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) to the end that wee ſhould ſharpen and ſtirre up one another (for thus much the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> implyeth) towards the perfection of our holy calling and profeſſion.</p>
+            <p>And therefore give mee leave, in obedience to this Commandement, chiefly at this time, to con<g ref="char:EOLhyphen"/>ſider you of my Nation, as an object fit to be pro<g ref="char:EOLhyphen"/>voked to all the duties which God hath comman<g ref="char:EOLhyphen"/>ded in his Goſpel for the glory of his name: Give me leave (I ſay) to beleeve that you deſire to bee provoked, &amp; that you will effectually be ſtirred up hereunto, as unto a neceſſary duty, although by ſuch a weake and contemptible inſtrument as I am, it is thus meanly propoſed unto you: For I hope you will doe it ſo much the rather and the readier, becauſe it is not backed with Authoritie, that it may appear you are perſwaded and moved by the grace and Spirit of God, and not by any humane and outward conſideration towards that which is required of you in your heavenly calling. Bee pleaſed then to conſider not who it is that maketh the propoſition, but what it is that is propoſed; and in whoſe name, and to what
+<pb n="4" facs="tcp:156873:5"/>
+end and effect theſe endeavours were and are un<g ref="char:EOLhyphen"/>dertaken.</p>
+            <p>The end you have already heard; the name in which the propoſall is made, is the name of our God, and Saviour <hi>Jeſus Chriſt,</hi> who is called the great God, and the Prince of peace. If therefore you profeſſe your ſelves to be his faithfull ſubjects in the Kingdome, and Miniſters in the Goſpel of Peace, I may call upon you by your allegeance, that you decline not the counſels of peace, be<g ref="char:EOLhyphen"/>cauſe hee hath commanded, ſaying, <hi>Seek peace, and</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 34. 14.</note> 
+               <hi>follow after it.</hi> And as for the thing required at your hands to be done at this time, it is thus to be con<g ref="char:EOLhyphen"/>ceived; That although ſometimes I am enabled to uſe great boldneſſe in a private way, yet, being now to make my addreſſe unto a whole Church, I have reaſon to feare leſt I ſeeme to abuſe my Liberty which is in Chriſt. Therefore I am farre from preſcribing any thing, and will onely repreſent my earneſt wiſhes and humble requeſts unto you, as they are briefly ſet downe in the Petition hereun<g ref="char:EOLhyphen"/>to annexed, and as now by this writ this ſhall bee more particularly explained and declared for the opening of my meaning therein.</p>
+            <p>Be pleaſed then to conſider, that my conſtant ſuit to all Proteſtants is, that they would live in the Communion of Saints one towards another: for, ſeeing they all beleeve that there is a Communion of Saints, and that every one in particular thinketh himſelfe intereſſed therein, as being ſanctified by one and the ſame Spirit; therefore I ſuppoſe that
+<pb n="5" facs="tcp:156873:5"/>
+none may or will be unwilling (chiefly when he is called upon) to communicate the fruits of his ſpi<g ref="char:EOLhyphen"/>rituall talents towards the building up of truth, and of righteouſneſſe in his fellow-ſaints. Now I take the ground of holy Communion, which ought to be made manifeſt amongſt Proteſtants, to be this:</p>
+            <p>Firſt, That they joyntly attained unto the ac<g ref="char:EOLhyphen"/>knowledgment of the ſame ſaving faith, as it is re<g ref="char:EOLhyphen"/>vealed in the forme of ſound words and Doctrine, which the holy Scriptures teach, renouncing there<g ref="char:EOLhyphen"/>by all Popiſh, all Socinian, and other whatſoever hereſies and errours, which overthrow the ground of our ſalvation.</p>
+            <p>Secondly, That they have ſubmitted themſelves unto the ſame rule of life and obedience, in all acti<g ref="char:EOLhyphen"/>ons towards God and man, to be joyntly directed therein by the will of God revealed in the ſame holy Scriptures, renouncing conſequently thereby all Popiſh idolatry, all humane traditions, and all ſuperſtitious conſtitutions, as no wayes binding in reſpect of conſcience, or to bee impoſed as obſer<g ref="char:EOLhyphen"/>vable in the worſhip of God.</p>
+            <p>Seeing then all Proteſtants appeal only unto the word of God, and reject all doctrines &amp; practices, as untrue &amp; unwarrantable, which have no ground in the ſame: therefore I conceive them to be really brethren in Chriſt. And although the more weak, and leſſe knowing party (as commonly it falleth out) is unwilling to acknowledge the other for a Brother, yet nevertheleſſe, becauſe there is a com<g ref="char:EOLhyphen"/>mandement of God, bidding us that are ſtrong, to
+<pb n="6" facs="tcp:156873:6"/>
+beare with the infirmities of the weak, and forbid<g ref="char:EOLhyphen"/>ding us to pleaſe our ſelves, and injoyning both <note place="margin">Rom. 15. 1. <hi>1bid. v.</hi> 7.</note> them and us to receive one another as Chriſt re<g ref="char:EOLhyphen"/>ceived us unto the glory of God. Therefore I find that wee are bound to labour to gaine our erring brethren, with all meekneſſe alluring and drawing them on towards more knowledge, towards mo<g ref="char:EOLhyphen"/>deration, and towards godlineſſe, and brotherly love: To which effect, we ſhould indeavour to re<g ref="char:EOLhyphen"/>ctifie in them thoſe miſtakes for which they ſhew their ſpirits to be averſe from us; and to give them alſo occaſion to rectifie in us thoſe ſiniſter thoughts for which we conceive our ſpirits juſtly alienated from them. For indeed, it is for the moſt part al<g ref="char:EOLhyphen"/>moſt nothing but miſtakes on both ſides, and miſ-interpretations of each others meanings and acti<g ref="char:EOLhyphen"/>ons, which make the diviſion. Theſe miſtakes and miſ-interpretations therefore ſhould be taken out of the way on both ſides: which may bee done, if that wherein both Churches fully doe agree be<g ref="char:EOLhyphen"/>twixt themſelves, and diſagree from Papiſts, were brought into a ſumme, and meanes uſed to cauſe that ſumme to be acknowledged by common con<g ref="char:EOLhyphen"/>ſent, as a teſtimony of their unity in the faith and practice of true Chriſtianity. Now, to make ſuch a ſumme, a Symboll of their agreement in faith and obedience, as it is not difficult to be done, ſo it may be effectuall to rectifie their miſtakes, and bind up their hearts in brotherly love, if the publick Con<g ref="char:EOLhyphen"/>feſſions of all the Churches were compared toge<g ref="char:EOLhyphen"/>ther in things neceſſary, and uſefull for unity and
+<pb n="7" facs="tcp:156873:6"/>
+mutuall edification; whereof the conſent being gathered and approved by us, then afterward it might be inſinuated with countenance of authori<g ref="char:EOLhyphen"/>ty unto forraigne Proteſtant States, to make them willing to propoſe the ſame unto their Miniſtery, to move them to approve of it in like manner as of a teſtimony of a ſpirituall unitie. This, I ſay, is no hard matter to bee done; and yet would bee a ſufficient means to unite all our ſpirits together, &amp; take away the hurtfull ſcandall of our diviſions.</p>
+            <p>This being done, needleſſe diſputes and curious Schoole queſtions, which have bred much ſtrife, might, in the ſecond place, bee caſt out from the Pulpits, and other profitable, though high and ſub<g ref="char:EOLhyphen"/>lime myſteries of godlineſſe, might be regulated by common conſent, to oblige ordinary Preachers to handle the ſame without curioſity, prudently and plainly, as may be anſwerable unto vulgar capaci<g ref="char:EOLhyphen"/>ties, for popular edification. Thus it is conceived that controverſies might be made leſſe in number and in weight. Which being done, a courſe could be ſetled to entertaine correſpondencie in ſpirituall things, belonging unto the advancement of the kingdom of God towards thoſe that either know, or as yet know not his name: To which effect theſe things ſhould be taken into conſideration:</p>
+            <p>Firſt, How, and by what means, anſwerably to the will of God, ſcandals, hereſies, and breaches of brotherly love and unity ſhould be prevented be<g ref="char:EOLhyphen"/>twixt the Churches in time to come.</p>
+            <p>Secondly, How the increaſe of knowledge,
+<pb n="8" facs="tcp:156873:7"/>
+which daily is enlarged, in ſome places this way, and in other places that way, according to the dif<g ref="char:EOLhyphen"/>ferent gifts of Gods Spirit diverſly beſtowed, and alwaies profitable in ſeverall perſons, may become profitable in common to all, and be communicated without grudging or envie, or danger of diſtur<g ref="char:EOLhyphen"/>bance to any, ariſing from prepoſterous contradi<g ref="char:EOLhyphen"/>ctions and diſputations. And to bring this to paſſe, thoughts have beene long agoe entertained, and ſome indeavours uſed to procure the meanes of true Chriſtian learning, and holy knowledge.</p>
+            <p>The firſt is a full body of practicall Divinity, w<hi rend="sup">ch</hi> in ſtead of the ordinary Philoſophicall-jangling-School-Divinity, might bee propoſed to all thoſe that ſeeke the truth, which is after godlineſſe, and eſpecially to the young Schollers of Theologie in the Univerſities.</p>
+            <p>The ſecond is, a ſubſtantiall explication of the literall and materiall ſenſe of the Text of the holy Bible, to be a help unto all both learned and un<g ref="char:EOLhyphen"/>learned in matters of doubt, which ought to bee decided by the word of God.</p>
+            <p>The third thing belonging to the advancement of Gods Kingdome, which may and ought to bee conſulted upon, is how to propagate the truth and light revealed unto Proteſtants towards others; that ſuch as are yet in darkneſſe and deadly igno<g ref="char:EOLhyphen"/>rance, may be drawne unto the light of life which ſhineth in the Goſpel.</p>
+            <p>Theſe are the objects of my ſollicitation and en<g ref="char:EOLhyphen"/>deavours amongſt Proteſtants, whereunto not on<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:156873:7"/>
+many have given their conſent, and decalred a ready minde for concurrence; but ſome alſo have really and effectually put to their hand to labour in the work with us: others are more and more comming on, and no doubt by your example moſt of them will be raiſed and ſtirred up from that ac<g ref="char:EOLhyphen"/>cuſtomed drowſineſſe and ſlackneſſe in reſolution, wherewith our fleſh and bloud is clogged when wee intend ſpirituall matters: But hee that is able to waken the dead, and raiſe them up out of their graves, and who will once bring us united together with Chriſt in glory, is able alſo to quicken mens ſpirits towards theſe duties, and make them con<g ref="char:EOLhyphen"/>curre in one purpoſe, to underſtand aright the ſin<g ref="char:EOLhyphen"/>cerity of one anothers intentions.</p>
+            <p>Now then, If I may uſe freedome of ſpeech through Chriſt, to require of you that which I conceive you ought to doe, and beſeech you to ſettle a reſolution in your Aſſembly, that hence<g ref="char:EOLhyphen"/>forth you will lay to heart ſuch publick thoughts, that as in other things you have abundantly ap<g ref="char:EOLhyphen"/>proved your zeal towards the truth, ſo in theſe du<g ref="char:EOLhyphen"/>ties of love and publick edification, you may goe before others, and bee found laudable Patrons to the communion of Saints: Which may be brought to paſſe, if you will make an Act for the entertain<g ref="char:EOLhyphen"/>ment of correſpondency with forraign Churches about this matter, and in conſequence of that Act, deferre Authority to ſome fit perſons of your Bo<g ref="char:EOLhyphen"/>dy, who may in your name concurre to correſpond and entertaine with others theſe thoughts of ſpiri<g ref="char:EOLhyphen"/>tuall
+<pb n="10" facs="tcp:156873:8"/>
+and common edification. To ſuch then as you ſhall appoint to heed this work I will promiſe to make mine addreſſe, and give you by them true information of that which is, or ſhall be done here<g ref="char:EOLhyphen"/>in by others hereafter: And from them reciprocal<g ref="char:EOLhyphen"/>ly I deſire to receive the advice and counſell which you ſhall thinke fit to impart towards the worke, that it may in due time be brought to a full period, through the aſſiſtance of Gods Spirit, in the ſupply of your joynt prayers and co-operation. And be<g ref="char:EOLhyphen"/>cauſe in this ſpirituall combate our prayers are our chiefe ſtrength and weapons, therefore my further requeſt is, That you would recommend the work unto the prayers and ſupplications of your Con<g ref="char:EOLhyphen"/>gregations; that it may be mentioned before God, to this effect, namely, that his ſaving truth revealed to the Proteſtant Churches, may bee not onely freed from all ſcandals of needleſſe diſputes, and dangerous diviſions amongſt themſelves: but alſo have a free paſſage towards others, and be enlar<g ref="char:EOLhyphen"/>ged towards all the ends of the world, through the unity of their ſpirits in the bond of peace, and their godly zeal to entertain holy Communion one with another, for the advancement of the kingdome of Jeſus Chriſt our Saviour. What ſhal Papiſts faſt &amp; pray, and erect ſocieties, and ſpend great revenues to breed and ſend forth Emiſſaries, to undermine the truth, and propagate their ſuperſtirions and i<g ref="char:EOLhyphen"/>dolatries: and ſhall wee no nothing for the ad<g ref="char:EOLhyphen"/>vancement and propagation of the true faith and knowledge of Chriſt Jeſus: Shall they be more
+<pb n="11" facs="tcp:156873:8"/>
+cunning and diligent to overthrow and divide our Churches by worldly wiles of deſtruction, then wee are circumſpect and zealous to maintaine our ſelves and all Gods children, ſo farre as in us lyeth, in unity, by ſpirituall rules of mutuall edification: Oh, let never this fault bee any more found in any of us. It may ſuffice, that hitherto the neglect of our duty, in this and other things, hath brought us to this extremity whereunto you ſee Eccleſiaſticall matters are reduced amongſt Proteſtants. If there<g ref="char:EOLhyphen"/>fore there be any bowels and compaſſion, if you intend to entertaine any fellowſhip of the Spirit, and if you can ſupply any comfort of love derived to you from our head Jeſus Chriſt, fulfill the joy of peaceable minded Chriſtians, and in theſe things bee like minded with us; Enlarge your ſelves as we doe, and open your hearts by ſome written De<g ref="char:EOLhyphen"/>claration fit to bee imparted unto forreigners, to beare witneſſe that you are willing and ready to ſeek and entertaine peace with all true Profeſſors of Chriſtianity. And if withall you ſhall thinke fit to give any advice unto me (a mean inſtrument of this worke) or to ſuggeſt ſome profitable counſell concerning the heads of conſultation here propo<g ref="char:EOLhyphen"/>ſed unto you, I am a moſt humble ſuiter unto you, that you would either inſert the ſame into your Declaration, or communicate it apart unto me: For by the communication of your ſpirituall talents in this kinde, you will cauſe many thankſgivings and praiſes to bee offered up by many unto God on your behalfe, and in particular by my ſelfe, who
+<pb n="12" facs="tcp:156873:9"/>
+in the midſt of many outward diſcouragements, and inward failings, am bound to wraſtle ſome<g ref="char:EOLhyphen"/>times with my ſelfe, and ſometimes with others, againſt the ſpirit of envie and ſtrife which dwel<g ref="char:EOLhyphen"/>leth in our fleſh, for the unblameable waies of peace and truth which are in Jeſus Chriſt. To his grace I commend you, and ſhall not ceaſe to pray, that in all your labours for the Goſpel, you may finde the infallible direction of his holy Spirit going a<g ref="char:EOLhyphen"/>long with you, till you ſee the bleſſed effects of his good will and direction over you, with joy un<g ref="char:EOLhyphen"/>ſpeakable, and comfort unto your ſoules, through the apprehenſion of the glory of our God, which I wiſh may ſhine now and for ever, in and over every one of you ſeverally, and your whole ſociety joint<g ref="char:EOLhyphen"/>ly; of which I ſhall alwaies ſtudy to be found</p>
+            <closer>
+               <signed>The moſt faithfull and affectionate ſervant in Chriſt Jeſus, <hi>JOHN DURY.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
